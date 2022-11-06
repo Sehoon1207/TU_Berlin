@@ -1,0 +1,19 @@
+v 3
+file . "xnor2_tb.vhdl" "20221103064730.000" "20221103075418.678":
+  entity xnor2_tb at 1( 0) + 0 on 39;
+  architecture test of xnor2_tb at 7( 88) + 0 on 40;
+file . "xor2_tb.vhdl" "20221103063424.000" "20221103073609.175":
+  entity xor2_tb at 1( 0) + 0 on 23;
+  architecture test of xor2_tb at 7( 86) + 0 on 24;
+file . "and2.vhdl" "20221103043050.000" "20221103061900.357":
+  entity and2 at 1( 0) + 0 on 11;
+  architecture behavioral of and2 at 12( 198) + 0 on 12;
+file . "and2_tb.vhdl" "20221103045026.000" "20221103061948.013":
+  entity and2_tb at 1( 0) + 0 on 13;
+  architecture test of and2_tb at 7( 86) + 0 on 14;
+file . "xor2.vhdl" "20221103063316.000" "20221103073600.175":
+  entity xor2 at 1( 0) + 0 on 21;
+  architecture behavioral of xor2 at 12( 189) + 0 on 22;
+file . "xnor2.vhdl" "20221103064356.000" "20221103075405.762":
+  entity xnor2 at 1( 0) + 0 on 37;
+  architecture behavioral of xnor2 at 12( 191) + 0 on 38;
