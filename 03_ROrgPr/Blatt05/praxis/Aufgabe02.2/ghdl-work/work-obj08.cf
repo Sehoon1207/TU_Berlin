@@ -1,0 +1,7 @@
+v 4
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt05/praxis/Aufgabe02.2/" "reg_tb.vhd" "a56c4f34490caae495127569b4996968e47d3203" "20221128102919.368":
+  entity reg_tb at 1( 0) + 0 on 13;
+  architecture behavioral of reg_tb at 10( 108) + 0 on 14;
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt05/praxis/Aufgabe02.2/" "reg.vhd" "2af74e64cbe7037a8a96cfbd66fd923e0a689912" "20221128102919.245":
+  entity reg at 1( 0) + 0 on 11;
+  architecture behavioral of reg at 16( 303) + 0 on 12;

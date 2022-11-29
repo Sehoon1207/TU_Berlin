@@ -1,0 +1,7 @@
+v 4
+file . "clkReduce_tb.vhd" "88ae94630668bc40524217755262a45827af4fe0" "20221115092611.841":
+  entity clkreduce_tb at 1( 0) + 0 on 27;
+  architecture behavioral of clkreduce_tb at 8( 112) + 0 on 28;
+file . "clkReduce.vhd" "b064a9dcc9e3be8345c876c342814d163385f817" "20221115092610.022":
+  entity clkreduce at 1( 0) + 0 on 25;
+  architecture behavioral of clkreduce at 11( 208) + 0 on 26;

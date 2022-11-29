@@ -1,0 +1,7 @@
+v 4
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt04/praxis/aufgabe02/" "leftShifter_tb.vhd" "d2375e6325fa63df7a4816c7f16b2251a5db6181" "20221125123507.711":
+  entity leftshifter_tb at 1( 0) + 0 on 13;
+  architecture behavioral of leftshifter_tb at 13( 207) + 0 on 14;
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt04/praxis/aufgabe02/" "leftShifter.vhd" "fb47727f28202377429e591a1c9a17d333910b22" "20221125123507.582":
+  entity leftshifter at 1( 0) + 0 on 11;
+  architecture behavioral of leftshifter at 16( 300) + 0 on 12;

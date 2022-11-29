@@ -1,0 +1,51 @@
+git 명령어
+
+git config --global user.name           '<Dein Name>'
+git config --global user.email          '<deine@mail.adresse>'
+git branch                              <branch-name>
+git add                                 ckurs_blatt01_hallo_osiris.txt
+git commit -m                           'Leere Abgabedateihinzugefügt'
+git push --set-upstream origin          ckurs-b01-a01).
+
+git 토큰
+
+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
+
+
+------------------------------------------------------------------
+
+ghdl -a and2.vhdl
+ghdl -a and2_tb.vhdl
+ghdl -e and2_tb
+ghdl -r and2_tb
+ghdl -r and2_tb --vcd=and2.vcd
+gtkwave and2.vcd
+
+
+
+------------------------------------------------------------------
+
+우분투 업데이트
+
+sudo apt-get update     // 파일내려받기
+sudo apt-get upgrade    // 업데이트하기
+
+
+------------------------------------------------------------------
+
+
+cat /etc/os-release
+sudo apt install ghdl-llvm
+sudo apt remove ghdl-mcode
+
+
+ghdl -a --std=08 -fsynopsys -frelaxed --workdir=ghdl-work -P../../../tools/ROrgPrSimLib++/ signExtend.vhd
+
+ghdl bootstrap-std
+sudo apt autoremove ghdl ghdl-llvm
+
+
+ls /usr/lib/ghdl/src/synopsys
+sudo rm -r /usr/lib/ghdl/
+
+sudo apt install ghdl -llvm

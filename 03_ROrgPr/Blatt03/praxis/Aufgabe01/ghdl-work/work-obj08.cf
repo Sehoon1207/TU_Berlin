@@ -1,0 +1,7 @@
+v 4
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt03/praxis/Aufgabe01/" "clkReduce_tb.vhd" "88ae94630668bc40524217755262a45827af4fe0" "20221118121025.477":
+  entity clkreduce_tb at 1( 0) + 0 on 13;
+  architecture behavioral of clkreduce_tb at 8( 112) + 0 on 14;
+file "/mnt/c/code/TU_Berlin/03_ROrgPr/Blatt03/praxis/Aufgabe01/" "clkReduce.vhd" "307e5d3eae0f72e5c4e1b27ccaa7dd2725728505" "20221118121025.420":
+  entity clkreduce at 1( 0) + 0 on 11;
+  architecture behavioral of clkreduce at 14( 217) + 0 on 12;
